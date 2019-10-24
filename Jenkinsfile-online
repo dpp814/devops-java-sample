@@ -14,7 +14,7 @@ pipeline {
         GITHUB_CREDENTIAL_ID = 'github-id'
         KUBECONFIG_CREDENTIAL_ID = 'demo-kubeconfig'
         REGISTRY = 'www.blsky.xyz'
-        DOCKERHUB_NAMESPACE = 'dpp'
+        DOCKERHUB_NAMESPACE = 'dpp814'
         GITHUB_ACCOUNT = 'dpp814'
         APP_NAME = 'devops-java-sample'
         SONAR_CREDENTIAL_ID= 'sonar-token'
